@@ -1,3 +1,6 @@
+Data collected from the accelerometers from the Samsung Galaxy S smartphone
+Full description of data can be viewed at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Tidy data set with the average of each variable for each activity and each subject
 
 Variables:
